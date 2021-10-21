@@ -5,7 +5,8 @@ terraform {
       version = "~> 3.27"
     }
   }
-
+#this block grab providers from terraform registry : here AWS in version 3.27
+  
   required_version = ">=0.14.9"
 
 }
