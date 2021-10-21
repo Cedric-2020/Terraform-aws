@@ -1,0 +1,2 @@
+$ terraform state list
+aws_instance.app_server
